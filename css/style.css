@@ -1,0 +1,19 @@
+
+.heading{
+	margin-bottom: 20px;
+}
+
+label{
+	font-size: 20px;
+}
+
+input[type='text']{
+	font-size: 24px;
+}
+
+.checked{
+	text-decoration: line-through;
+	font-style: italic;
+	font-weight: 400;
+	color: grey;
+}
